@@ -50,6 +50,10 @@
     
 </p>
 
+## ❤ Views
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdmaroof2001&label=Profile%20views&color=0e75b6&style=flat" alt="mohdmaroof2001" /> </p>
+
 
 
 
