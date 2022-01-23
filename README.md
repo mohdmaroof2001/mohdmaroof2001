@@ -33,6 +33,7 @@
 ## 📊 My Github Stats
 
 <a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohdmaroof2001&show_icons=true&locale=en" alt="mohdmaroof2001" /></a>
+
 <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohdmaroof2001&show_icons=true&locale=en&layout=compact" alt="mohdmaroof2001" /></a>
 
  <br/>
