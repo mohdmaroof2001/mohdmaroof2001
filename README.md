@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mohdmaroof2001
-- 👀 I’m interested in Software Developer
+- 👀 I’m interested in Flutter Developer
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
