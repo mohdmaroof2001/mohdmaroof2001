@@ -35,7 +35,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/mohdmaroof2001?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>    
+<a href="https://github.com/mohdmaroof2001?tab=followers"></a>    
 
 
 
