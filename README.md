@@ -26,9 +26,6 @@
 
 ## 📊 My Github Stats
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohdmaroof2001&show_icons=true&locale=en&layout=compact" alt="mohdmaroof2001" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohdmaroof2001&show_icons=true&locale=en" alt="mohdmaroof2001" /></p>
