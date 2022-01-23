@@ -34,8 +34,7 @@
     
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/mohdmaroof2001?tab=followers"></a>    
+
 
 
 
