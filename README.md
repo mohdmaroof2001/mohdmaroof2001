@@ -31,6 +31,11 @@
 <a href = "https://twitter.com/kayamkhan2001"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/_mohdmaroof/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UCleV1sQOj1LXkT_MaI4b07A"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+    
+</p>
+
+## ❤ Views and Followers
+<a href="https://github.com/mohdmaroof2001?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>    
 
 
 
