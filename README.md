@@ -24,7 +24,10 @@
     <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a>  
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdmaroof2001&" alt="mohdmaroof2001" /></p>
+<p align="center">
+<a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdmaroof2001&" alt="mohdmaroof2001" /></a>
+
+</p>
 
 ## 📊 My Github Stats
 
