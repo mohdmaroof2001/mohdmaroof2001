@@ -21,17 +21,22 @@
     <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a> 
-   
+    <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a>  
 </p>
 
+<p align="center">
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=mohdmaroof2001&">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="mohdmaroof2001" 
+
 ## 📊 My Github Stats
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdmaroof2001&" alt="mohdmaroof2001" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohdmaroof2001&show_icons=true&locale=en&layout=compact" alt="mohdmaroof2001" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohdmaroof2001&show_icons=true&locale=en" alt="mohdmaroof2001" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdmaroof2001&" alt="mohdmaroof2001" /></p>
+
 
 
 </p>
